@@ -1,0 +1,7 @@
+{
+  "name": "preside-cms-server-manager",
+  "main": "./html/index.html",
+  "window":{
+  	"toolbar":false
+  }
+}
